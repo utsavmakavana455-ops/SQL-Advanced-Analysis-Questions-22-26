@@ -34,18 +34,6 @@ The focus is on advanced SQL techniques for business and data analysis.
 * MySQL Workbench
 * SQL
 
-## Project Structure
-
-```text
-SQL-Advanced-Analysis/
-│
-├── README.md
-├── data/
-│   └── orders_100_rows.sql
-│
-└── queries/
-    └── sql_questions_22_26.sql
-```
 
 ## Learning Outcome
 
